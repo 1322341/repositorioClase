@@ -1,1 +1,1 @@
-# digital-heroes-cn22
+# digital-heroes
